@@ -6,13 +6,9 @@ This project is a recreation/clone of the **Golden Coins** minigame in **Bookwor
 ### Installation
 
 1. Ensure you have [Python](https://www.python.org/downloads/) installed (3.12 as of writing).
-2. Download/clone this repository. 
-3. `pip install rich` or `py -m pip install rich` in your terminal
+2. Download this repository. 
+3. Enter `pip install rich` or `py -m pip install rich` in your terminal
 4. Run main.py.
-
-### Play Online
-
-Alternatively, you can play online on this [repl.it]()
 
 ### How to Play
 
@@ -28,7 +24,7 @@ As you can see, the goal is to spell 5 words from the randomly generated 12-tile
 
 ![gameplay_cmd](https://raw.githubusercontent.com/raynsquall/lunar-coins/main/sample_play.gif)
 
-Is it a little crude? Heh, notice that there are features that did not exist in the original though. 
+Notice that there are features that did not exist in the original though. 
 
 ### New Features
 

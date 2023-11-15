@@ -1,10 +1,12 @@
-from game import LunarCoins
+import random
+from typing import List
 
-from info import logo, overview, options_table, game_modes_table, keep_prompt_msg, faq
 from rich.console import Console
 from rich.table import Table
-from typing import List
-import random
+
+from game import LunarCoins
+from info import (faq, game_modes_table, keep_prompt_msg, logo, options_table,
+                  overview)
 
 console = Console()
 

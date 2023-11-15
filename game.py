@@ -1,9 +1,10 @@
-from collections import Counter
 import random
+from collections import Counter
 from typing import List
+
+from rich import box
 from rich.console import Console
 from rich.table import Table
-from rich import box
 
 # Color source: https://rich.readthedocs.io/en/stable/appendix/colors.html#appendix-colors
 RACK_LETTER_COLOR = "purple4"
