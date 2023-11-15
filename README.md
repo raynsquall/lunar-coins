@@ -1,5 +1,5 @@
 
-# Lunar Coins --- A Golden Coins Clone
+# Lunar Coins --- A Golden Coins Terminal Clone
 
 This project is a recreation/clone of the **Golden Coins** minigame in **Bookworm Adventures Volume 2** as a command-line Python game. This repository aims to replicate the gameplay mechanics of the original minigame for personal learning and nostalgic purposes. While it is still a clone, new features were added.
 
@@ -12,7 +12,7 @@ This project is a recreation/clone of the **Golden Coins** minigame in **Bookwor
 
 ### How to Play
 
-Here is a sample gameplay from the minigame this project was based on:
+Here is a sample gameplay from Golden Coins, i.e., the minigame this project was based on:
 
 ![gameplay_og](https://i.ibb.co/VLh8xMG/gc-og.gif)
 
